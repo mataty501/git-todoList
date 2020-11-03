@@ -12,7 +12,7 @@ const Todos = (props) => {
         {
           id: todos.length,
           task: input,
-          checked: false,
+          checked: false, 
         },
       ]);
     }
